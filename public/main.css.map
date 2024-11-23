@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "E:/open_code/theme_doks/thulite-project",
+	"sourceRoot": "E:/open_code/hugo-2",
 	"sources": [
 		"node_modules/@thulite/core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",
